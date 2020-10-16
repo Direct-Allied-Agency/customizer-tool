@@ -1,0 +1,1 @@
+[28-Aug-2020 15:11:12 UTC] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/var/www/vhosts/daawork.site/public_html/masterwp/wp-content/plugins/wp-rocket/) is not within the allowed path(s): (/var/www/vhosts/tahlequahmarketing.com/:/tmp/) in /var/www/vhosts/tahlequahmarketing.com/public_html/wp-content/advanced-cache.php on line 17
